@@ -12,3 +12,4 @@ for i in range(home_task_M):
         print('YES')
     else:
         print('NO')
+
